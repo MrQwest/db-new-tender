@@ -22,11 +22,12 @@ md "%z% (%y%)"\Estimates
 md "%z% (%y%)"\Correspondence
 md "%z% (%y%)"\Photos
 md "%z% (%y%)"\Drawings
+md "%z% (%y%)"\Drawings\"db sketches"
 md "%z% (%y%)"\Schedules
 
 explorer "%z% (%y%)"
 echo.
-Echo   Tender file for %z% created!
+echo   Tender file for %z% created!
 echo.
 
 Pause
